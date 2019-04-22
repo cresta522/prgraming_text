@@ -64,9 +64,10 @@ ERPとは、簡単に言うと企業で使用されている**給与管理**、*
 一番なじみがあるのではないでしょうか。LINEやらメールやら、スマホでのゲームやら。これらを作るんですね。わくわくしますか？
 
 1. IoT
-最近このワードがCMでも流れるようになりましたね。**インターネットを介してモノを扱う**時代になりました。簡単にいうと、炊飯器や冷暖房など、機械操作を
+最近このワードがCMでも流れるようになりましたね。**インターネットを介してモノを扱う**時代になりました。簡単にいうと、炊飯器や冷暖房など、機械操作を行う分野です。
 
 1. 機械学習・AI
+IoT同様これも人気ワードですね。
 
 
 ## プログラム以外に知ること
@@ -125,6 +126,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk4NjEwMjgsLTMwMjA5ODcxNiwxNj
-c4NzI3NDc3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbNjIyNDA4MjI5LC0zMDIwOTg3MTYsMTY3OD
+cyNzQ3NywtMTc0MzQ2NDQ2OV19
 -->
