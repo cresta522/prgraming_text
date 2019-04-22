@@ -61,9 +61,11 @@ Ex) ブラウザ,ERP,ゲーム
 ERPとは、簡単に言うと企業で使用されている**給与管理**、**出退勤管理**、**売上管理**、など。企業のペーパレス化等々に貢献してるツールだったりしますね。ちなみに私はERP開発のSIだったりします。
 
 1. スマートフォンアプリケーション
-一番なじみがあるのではないでしょうか。LINEやらめーｒ
+一番なじみがあるのではないでしょうか。LINEやらメールやら、スマホでのゲームやら。これらを作るんですね。わくわくしますか？
 
 1. IoT
+最近このワードがCMでも流れるようになりましたね。**インターネットを介してモノを扱う**時代になりました。簡単にいうと、炊飯器や冷暖房など、機械操作を
+
 1. 機械学習・AI
 
 
@@ -123,6 +125,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Nzk4NjM4LC0zMDIwOTg3MTYsMTY3OD
-cyNzQ3NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTEyNTk4NjEwMjgsLTMwMjA5ODcxNiwxNj
+c4NzI3NDc3LC0xNzQzNDY0NDY5XX0=
 -->
