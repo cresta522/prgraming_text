@@ -58,9 +58,11 @@ Ex) Amazon, COOKPAD, Google
 1. デスクトップアプリケーション
 Ex) ブラウザ,ERP,ゲーム
 ゲームってなるとジャンルはまた違いますが、デスクトップで動くのでひとまずこちらに分類します。が、**ゲーム開発は別物**です。
-ERPとは、簡単に言うと企業で使用されている**給与管理**、**出退勤管理**、**売り上げ管理**、など
+ERPとは、簡単に言うと企業で使用されている**給与管理**、**出退勤管理**、**売上管理**、など。企業のペーパレス化等々に貢献してるツールだったりしますね。ちなみに私はERP開発のSIだったりします。
 
 1. スマートフォンアプリケーション
+一番なじみがあるのではないでしょうか。LINEやらめーｒ
+
 1. IoT
 1. 機械学習・AI
 
@@ -121,6 +123,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc5NTUwNDgsLTMwMjA5ODcxNiwxNj
-c4NzI3NDc3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTk0Nzk4NjM4LC0zMDIwOTg3MTYsMTY3OD
+cyNzQ3NywtMTc0MzQ2NDQ2OV19
 -->
