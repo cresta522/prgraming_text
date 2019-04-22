@@ -1,7 +1,9 @@
 # プログラミングの読み物
 ##  初めに
 
-コーディングの方法よりも、
+コーディングの方法よりも、プログラミングに対する考え方（所謂 **論理思考**、**ロジカルシンキング**など）に着目していく。
+
+## ぷろぐらｍ
 
 # Welcome to StackEdit!
 
@@ -147,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk4MDc4NzgsLTE3NDM0NjQ0NjldfQ
+eyJoaXN0b3J5IjpbLTEyODE0MzI2MDMsLTE3NDM0NjQ0NjldfQ
 ==
 -->
