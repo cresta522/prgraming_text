@@ -39,6 +39,9 @@
 
 脱線しましたが、これらを用いて、コンピュータに指示を出します。
 
+外国語は、それぞれに文法があって、文化があって、流行もあれば廃りもあります。かと思えば似てるような部分もあります。「言葉」という意味では同じだったりしますよね。
+プログラミング言語も同様です。言語ごとに**文法**があって**文化**もあって**はや
+
 
 以下参考書籍です。わかりやすくて好きです。
 
@@ -94,6 +97,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzMwMDIsLTMwMjA5ODcxNiwxNjc4Nz
-I3NDc3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTU1NzkzODgyLC0zMDIwOTg3MTYsMTY3OD
+cyNzQ3NywtMTc0MzQ2NDQ2OV19
 -->
