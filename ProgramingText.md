@@ -32,7 +32,13 @@
 
 アプリケーションを作るためにプログラミングを行うことはわかりました。でもその指示ってどう出すのでしょうか。
 外国の方とお話しする際には英語やその国の言葉を使いますよね。同様に、コンピュータと会話する際には**プログラミング言語**を使うんです。外国語が１種類でないように、プログラミング言語も１種類ではありません。
-[https://qiita.com/make_now_just/items/b2ab19f954417c71848d](https://qiita.com/make_now_just/items/b2ab19f954417c71848d)
+
+※ ちなみに
+( [主要でもないプログラミング言語200種を一行で解説](https://qiita.com/make_now_just/items/b2ab19f954417c71848d)…。200種類…。 )
+
+
+脱線しましたが、これらを用いて、コンピュータに指示を出します。
+
 
 以下参考書籍です。わかりやすくて好きです。
 
@@ -88,6 +94,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcxNTc3NCwtMzAyMDk4NzE2LDE2Nz
-g3Mjc0NzcsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbMTMxNzMwMDIsLTMwMjA5ODcxNiwxNjc4Nz
+I3NDc3LC0xNzQzNDY0NDY5XX0=
 -->
