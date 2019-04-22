@@ -17,7 +17,13 @@
 
 ## プログラム以外に知ること
 
-## 
+1. データベース
+2. セキュリティ
+3. ネットワーク
+
+## 勉強法
+
+IA
 
 ## SmartyPants
 
@@ -56,5 +62,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODcyNzQ3NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTIxMzEwNTI1MCwxNjc4NzI3NDc3LC0xNz
+QzNDY0NDY5XX0=
 -->
