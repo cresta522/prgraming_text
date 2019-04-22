@@ -18,10 +18,15 @@
 
 |  | 料理人 |  プログラマ |
 |:--------:| :-------------:| :-------------:|
-| 目的 | りょ |
+| 目的 | 料理を作る | アプリを作る |
+| 道具 | 包丁 | プログラミング、コンピュータ |
+
 ## プログラムってどうやって動くの？
 
 
+以下参考書籍です。わかりやすくて好きです。
+
+[参考書籍：プログラムはなぜ動くのか](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AF%E3%81%AA%E3%81%9C%E5%8B%95%E3%81%8F%E3%81%AE%E3%81%8B-%E7%AC%AC%EF%BC%92%E7%89%88-%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98-%E7%9F%A2%E6%B2%A2%E4%B9%85%E9%9B%84/dp/4822283151)
 ## プログラム以外に知ること
 
 1. データベース
@@ -73,6 +78,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM1NTM5NTYsMTY3ODcyNzQ3NywtMT
-c0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTk3MjkwNzAxNSwxNjc4NzI3NDc3LC0xNz
+QzNDY0NDY5XX0=
 -->
