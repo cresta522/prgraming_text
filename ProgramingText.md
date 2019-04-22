@@ -50,6 +50,14 @@
 ### 簡単な違い
 > どういう違いがあるの？というのはまた別の記事で。
 
+と突き放しはしましたが、ざっくりと説明しますね。分野だけでも興味がでたら調べてみましょう。
+1. Webアプリケーション
+だ
+3. デスクトップアプリケーション
+4. スマートフォンアプリケーション
+5. IoT
+6. 機械学習・AI
+
 
 ## プログラム以外に知ること
 
@@ -107,6 +115,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2ODAxOTc2LC0zMDIwOTg3MTYsMTY3OD
-cyNzQ3NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTg2MTg1MjY0NSwtMzAyMDk4NzE2LDE2Nz
+g3Mjc0NzcsLTE3NDM0NjQ0NjldfQ==
 -->
