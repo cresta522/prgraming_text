@@ -44,7 +44,11 @@
 
 「は？！どれを選んだらいいんじゃ？！」
 
-という声もよく生徒さんからおう
+という声もよく生徒さんから聞きます。あれもこれも、と選ぶと中途半端になったりごちゃごちゃになってしまうこともしばしば…。
+どういう違いがあるの？というのはまた別の記事で。
+
+### 簡単な違い
+> どういう違いがあるの？というのはまた別の記事で。
 
 
 ## プログラム以外に知ること
@@ -103,6 +107,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAzNDA1NTIsLTMwMjA5ODcxNiwxNj
-c4NzI3NDc3LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbODA2ODAxOTc2LC0zMDIwOTg3MTYsMTY3OD
+cyNzQ3NywtMTc0MzQ2NDQ2OV19
 -->
