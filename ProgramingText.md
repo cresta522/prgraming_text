@@ -23,6 +23,9 @@
 
 ## プログラムってどうやって動くの？
 
+アプリケーションを作るためにプログラミングを行うことはわかりました。でもその指示ってどう出すのでしょうか。
+外国の方とお話しする際には英語やその国の言葉を使いますよね。同様に、**コンピュータと会話する際には
+
 
 以下参考書籍です。わかりやすくて好きです。
 
@@ -78,6 +81,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjkwNzAxNSwxNjc4NzI3NDc3LC0xNz
+eyJoaXN0b3J5IjpbMTA1MzQ4ODU1NywxNjc4NzI3NDc3LC0xNz
 QzNDY0NDY5XX0=
 -->
