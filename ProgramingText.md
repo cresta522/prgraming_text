@@ -52,11 +52,16 @@
 
 と突き放しはしましたが、ざっくりと説明しますね。分野だけでも興味がでたら調べてみましょう。
 1. Webアプリケーション
-だ
-3. デスクトップアプリケーション
-4. スマートフォンアプリケーション
-5. IoT
-6. 機械学習・AI
+Ex) Amazon, COOKPAD, Google
+ウェブサイトですね。
+
+1. デスクトップアプリケーション
+Ex) ブラウザ,ERP,ゲーム
+
+
+1. スマートフォンアプリケーション
+1. IoT
+1. 機械学習・AI
 
 
 ## プログラム以外に知ること
@@ -115,6 +120,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTg1MjY0NSwtMzAyMDk4NzE2LDE2Nz
+eyJoaXN0b3J5IjpbMTM5MDU1NTk3MiwtMzAyMDk4NzE2LDE2Nz
 g3Mjc0NzcsLTE3NDM0NjQ0NjldfQ==
 -->
