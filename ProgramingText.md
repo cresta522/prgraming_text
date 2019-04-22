@@ -1,4 +1,9 @@
 # プログラミングの読み物
+## 完成したの？
+まだ。
+stackedit.io
+にて製作中。
+
 ##  初めに
 
 コーディングの方法よりも、プログラミングに対する考え方（所謂 **論理思考**、**ロジカルシンキング**など）に着目していきたいと思います。
@@ -126,6 +131,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNDA4MjI5LC0zMDIwOTg3MTYsMTY3OD
-cyNzQ3NywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTkyNjA4Nzk1MSw2MjI0MDgyMjksLTMwMj
+A5ODcxNiwxNjc4NzI3NDc3LC0xNzQzNDY0NDY5XX0=
 -->
